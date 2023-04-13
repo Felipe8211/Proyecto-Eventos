@@ -1,1 +1,0 @@
-# Proyecto-Eventos, el poryecto tiene el objetivo de lograr que se analice la asistencia en los eventos de la universidad cooperativa de colombia, sede bogota.
